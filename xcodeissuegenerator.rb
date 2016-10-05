@@ -1,8 +1,8 @@
 class Xcodeissuegenerator < Formula
   desc "Generate issues for Xcode"
   homepage "https://github.com/doubleencore/XcodeIssueGenerator"
-  url "https://github.com/doubleencore/XcodeIssueGenerator/archive/v0.5.2.tar.gz"
-  sha256 "d0fd08c19f3a064692f27e1b68cbd0e2be7caec116e8036184b758712e72fefd"
+  url "https://github.com/doubleencore/XcodeIssueGenerator/archive/v0.5.3.tar.gz"
+  sha256 "1cedaf4384e50da73a83b02105b8b6f4aae6a035e7e9c448611b71bc030da981"
 
   head "https://github.com/doubleencore/XcodeIssueGenerator.git"
 
